@@ -1,0 +1,12 @@
+{
+  "name": "codex-limit-tester",
+  "version": "1.0.0",
+  "description": "Test the capabilities of OpenAI Pro Codex containerized agents",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -1,6 +1,7 @@
 {
   "name": "codex-limit-tester",
-  "main": "src/index.js",
+  "type": "module",
+  "main": "src/index.mjs",
   "scripts": {
     "test": "node --test"
   }

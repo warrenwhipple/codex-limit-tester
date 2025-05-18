@@ -1,3 +1,8 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
 # codex-limit-tester
 
 This repository is designed to test the capabilities of the OpenAI Codex containerized agent. It's a simple Node.js project with minimal structure.

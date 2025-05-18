@@ -1,4 +1,8 @@
-# codex-limit-tester
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+
+## Project Overview
 
 This repository is designed to test the capabilities of the OpenAI Codex containerized agent. It's a simple Node.js project with minimal structure.
 
